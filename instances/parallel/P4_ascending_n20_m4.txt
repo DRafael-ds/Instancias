@@ -1,0 +1,26 @@
+# P4_ascending_n20_m4
+# p ~ U[1,100] listed SHORTEST first (adversarial order for LS)
+# problem: P || Cmax
+# format: first line 'n m'; then one line per job: id p_j
+# (the job order in this file is the order used by List Scheduling)
+20 4
+1 5
+2 22
+3 27
+4 36
+5 43
+6 44
+7 46
+8 47
+9 53
+10 53
+11 57
+12 58
+13 59
+14 63
+15 65
+16 77
+17 82
+18 86
+19 94
+20 100

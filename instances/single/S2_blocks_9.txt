@@ -1,0 +1,14 @@
+# S2_blocks_9
+# 3 blocks: long lax job at time a, short urgent jobs at a+1
+# problem: 1 | r_j | Lmax   (all d_j < 0)
+# format: first line n; then one line per job: id r_j p_j d_j
+9
+1 0 39 -1
+2 1 2 -35
+3 45 34 -1
+4 46 2 -39
+5 46 2 -32
+6 46 2 -33
+7 85 31 -3
+8 86 3 -34
+9 86 3 -27

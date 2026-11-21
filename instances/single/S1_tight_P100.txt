@@ -1,0 +1,8 @@
+# S1_tight_P100
+# Tight family. EDD starts the long job at t=0 (only one available);
+# OPT waits 1 unit for the urgent job. EDD = 2P+1 = 201, OPT = P+3 = 103
+# problem: 1 | r_j | Lmax   (all d_j < 0)
+# format: first line n; then one line per job: id r_j p_j d_j
+2
+1 0 100 -1
+2 1 1 -100

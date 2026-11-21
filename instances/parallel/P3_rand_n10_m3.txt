@@ -1,0 +1,16 @@
+# P3_rand_n10_m3
+# p ~ U[1,100], random order
+# problem: P || Cmax
+# format: first line 'n m'; then one line per job: id p_j
+# (the job order in this file is the order used by List Scheduling)
+10 3
+1 24
+2 45
+3 77
+4 23
+5 36
+6 37
+7 88
+8 79
+9 10
+10 82

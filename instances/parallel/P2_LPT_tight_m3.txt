@@ -1,0 +1,13 @@
+# P2_LPT_tight_m3
+# Tight for LPT: LPT = 4m-1 = 11, OPT = 3m = 9
+# problem: P || Cmax
+# format: first line 'n m'; then one line per job: id p_j
+# (the job order in this file is the order used by List Scheduling)
+7 3
+1 5
+2 5
+3 4
+4 4
+5 3
+6 3
+7 3

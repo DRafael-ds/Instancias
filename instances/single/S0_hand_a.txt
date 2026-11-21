@@ -1,0 +1,9 @@
+# S0_hand_a
+# 4 jobs, small enough to solve by hand
+# problem: 1 | r_j | Lmax   (all d_j < 0)
+# format: first line n; then one line per job: id r_j p_j d_j
+4
+1 0 4 -2
+2 1 2 -8
+3 3 1 -5
+4 4 3 -1

@@ -1,0 +1,12 @@
+# P0_hand_ls_order
+# Graham-style example: try LS in file order vs LPT
+# problem: P || Cmax
+# format: first line 'n m'; then one line per job: id p_j
+# (the job order in this file is the order used by List Scheduling)
+6 3
+1 2
+2 3
+3 4
+4 6
+5 2
+6 2

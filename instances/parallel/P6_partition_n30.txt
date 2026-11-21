@@ -1,0 +1,36 @@
+# P6_partition_n30
+# m = 2 (Partition), p ~ U[100,1000]
+# problem: P || Cmax
+# format: first line 'n m'; then one line per job: id p_j
+# (the job order in this file is the order used by List Scheduling)
+30 2
+1 610
+2 915
+3 950
+4 487
+5 422
+6 442
+7 116
+8 662
+9 141
+10 261
+11 265
+12 751
+13 887
+14 637
+15 508
+16 956
+17 851
+18 317
+19 345
+20 734
+21 155
+22 510
+23 986
+24 779
+25 707
+26 586
+27 595
+28 858
+29 601
+30 492

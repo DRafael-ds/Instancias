@@ -1,0 +1,21 @@
+# S3_mix_n15
+# random mix: 40% long lax jobs (p~U[15,30], d~-U[1,5]),
+# 60% short urgent jobs (p~U[1,4], d~-U[15,35]); r~U[0,12n]
+# problem: 1 | r_j | Lmax   (all d_j < 0)
+# format: first line n; then one line per job: id r_j p_j d_j
+15
+1 174 3 -17
+2 29 3 -22
+3 152 22 -3
+4 136 2 -24
+5 44 15 -3
+6 170 1 -22
+7 128 2 -34
+8 17 4 -18
+9 104 24 -2
+10 155 1 -29
+11 162 19 -4
+12 31 4 -33
+13 17 25 -4
+14 113 3 -29
+15 114 3 -23

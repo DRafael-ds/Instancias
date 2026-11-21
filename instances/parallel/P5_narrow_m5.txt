@@ -1,0 +1,17 @@
+# P5_narrow_m5
+# 2m+1 near-equal jobs (p ~ U[90,110]): LB is weak, LPT often not optimal
+# problem: P || Cmax
+# format: first line 'n m'; then one line per job: id p_j
+# (the job order in this file is the order used by List Scheduling)
+11 5
+1 106
+2 107
+3 94
+4 95
+5 106
+6 97
+7 105
+8 110
+9 93
+10 105
+11 108

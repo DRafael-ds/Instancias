@@ -1,0 +1,11 @@
+# P0_hand_lpt_trap
+# LPT = 7, OPT = 6  ({3,3} and {2,2,2})
+# problem: P || Cmax
+# format: first line 'n m'; then one line per job: id p_j
+# (the job order in this file is the order used by List Scheduling)
+5 2
+1 3
+2 3
+3 2
+4 2
+5 2
